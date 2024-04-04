@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1712260942703,
+    "timestamp": "2024-04-04T20:02:22.703Z",
+    "answers": {
+      "hours": "1.4",
+      "seriál": "horor",
+      "favseries": "American horror story"
+    }
+  },
+  {
+    "id": 1712260983193,
+    "timestamp": "2024-04-04T20:03:03.193Z",
+    "answers": {
+      "hours": "1.1",
+      "seriál": "krimi",
+      "favseries": "True detective"
+    }
+  },
+  {
+    "id": 1712261171161,
+    "timestamp": "2024-04-04T20:06:11.161Z",
+    "answers": {
+      "hours": "1.4",
+      "seriál": "krimi",
+      "favseries": "True detective"
+    }
+  }
+]
